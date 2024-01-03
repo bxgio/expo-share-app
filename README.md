@@ -8,6 +8,6 @@ A simple sharing app which can share a message to any platform like whatsapp or 
 <p>run the application</p><b>npx react-native run-android</b><br>
 <p>refer the docs for setting up android studio</p><a href="https://reactnative.dev/docs/getting-started">refer</a>
 <br><br><p></p><b>If you found this useful please follow and star this repo</b></p><a>https://github.com/bxgio</a><br>
-<br><p>Runs in both Android and IOS<p><br> 
+<br><p><b>Runs in both Android and IOS<b><p><br> 
 
 
