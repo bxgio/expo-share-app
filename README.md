@@ -1,5 +1,5 @@
 # expo-share-app
-A simple sharing app which can share a message to any platform like whatsapp or instagram etc...<br>
+A simple sharing app which can share a message to any platform like whatsapp  instagram etc...<br>
 <h1>Steps:</h1><br>
 <p>install nodejs</p><br>
 <p>setup the react native environment</p><a href="https://reactnative.dev/docs/getting-started">refer this</a><br>
