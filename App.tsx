@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, TouchableOpacity, Text, Share } from 'react-native';
-
+// run in REACT NATIVE CLI
 export default function App() {
   const shareContent = async () => {
     try {
